@@ -1,0 +1,25 @@
+site_name: Questgiver Nøff
+site_description: En samling av oppdrag for læring, utforskning og utvikling.
+
+docs_dir: ../docs
+site_dir: ../site
+theme:
+  name: material
+  language: nb
+  features:
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+
+markdown_extensions:
+  - attr_list
+  - nl2br
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist
+
+plugins:
+  - search
+  - callouts
