@@ -1,4 +1,8 @@
-# AI: Ultralytics for computer vision
+---
+title: Ultralytics for computer vision
+---
+
+# AI - Ultralytics for computer vision
 
 ## Mål
 

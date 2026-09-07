@@ -1,4 +1,8 @@
-# AI: Tren en egen modell med Ultralytics
+---
+title: Tren en egen modell med Ultralytics
+---
+
+# AI - Tren en egen modell med Ultralytics
 
 ## Mål
 
