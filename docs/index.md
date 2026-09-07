@@ -1,3 +1,7 @@
+---
+title: Hjem
+---
+
 <h1 align="center">Questgiver Nøff</h1>
 
 <p align="center">
@@ -23,10 +27,10 @@ Et oppdrag er et målrettet prosjekt som hjelper deg å lære noe nytt innen inf
 
 ## Regler for oppdrag
 
+- Main-quest kommer alltid først (ordinær undervisning).
 - Oppdraget skal være faglig relevant for informasjonsteknologi.
 - Oppdraget må ha et tydelig mål som kan forklares kort.
 - Det skal være mulig å vise progresjon underveis.
-- Main quest kommer alltid først (ordinær undervisning).
 - Egenvalgte oppdrag må godkjennes av lærer.
 - Oppdraget skal ikke være "vinn i Fortnite" eller annet som ikke er relevant for læring.
 - Oppdraget bør være noe du faktisk er nysgjerrig på eller vil lære mer om.

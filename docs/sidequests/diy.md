@@ -6,7 +6,7 @@ Et sidequest er et selvvalgt, faglig relevant prosjekt der du lærer noe nytt, l
 
 1. Velg et tema du er nysgjerrig på.
 2. Bruk GitHub-repositoriet du har fått av læreren. Ikke opprett eller bruk et eget repository uten å avklare det med læreren først.
-3. Fyll ut [sidequest-dialogen](SIDEQUEST-DIALOGUE.md).
+3. Fyll ut [[sidequest-dialogue|sidequest-oppdragsteksten]] med mål, verktøy og fremgangsmåte.
 4. Send den ferdig utfylte dialogen til læreren for godkjenning.
 5. Vent på godkjenning før du starter arbeidet.
 

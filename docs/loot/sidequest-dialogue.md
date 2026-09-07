@@ -1,8 +1,16 @@
-# Sidequest-dialog
+---
+title: Sidequest-oppdragstekst
+---
+
+# Valg av sidequest
 
 ## Mitt sidequest
 
-Jeg har valgt følgende sidequest: (lenke til sidequest)
+Jeg har valgt følgende sidequest: `(lenke til sidequest) | Navn på sidequest`
+
+## GitHub-repository
+
+> Lim inn lenken til GitHub-repositoriet læreren har gitt deg.
 
 ## Dersom du ønsker å lage ditt eget sidequest
 
@@ -27,7 +35,3 @@ Fyll ut punktene under og send dokumentet til læreren for godkjenning før du s
 ## Hvordan skal jeg vise hva jeg har gjort?
 
 > For eksempel GitHub-repository, fungerende program, nettside, dokumentasjon, demo eller lignende.
-
-## GitHub-repository
-
-> Lim inn lenken til GitHub-repositoriet læreren har gitt deg.

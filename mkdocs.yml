@@ -73,3 +73,5 @@ plugins:
   - search
   - callouts
   - mkdocs-video
+  - roamlinks
+  - awesome-pages

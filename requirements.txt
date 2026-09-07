@@ -2,3 +2,5 @@ mkdocs-material
 mkdocs-callouts
 mkdocs-video
 mdx-breakless-lists
+mkdocs-roamlinks-plugin
+mkdocs-awesome-pages-plugin
