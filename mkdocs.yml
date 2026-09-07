@@ -8,6 +8,7 @@ edit_uri: edit/main/
 
 theme:
   name: material
+  custom_dir: overrides
   language: nb
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -24,6 +25,8 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Light mode
+  logo: logo.png
+  favicon: logo.png
   features:
     - content.code.copy
     - content.action.edit
