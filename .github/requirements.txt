@@ -1,3 +1,4 @@
 mkdocs-material
 mkdocs-callouts
 mkdocs-video
+mdx-breakless-lists

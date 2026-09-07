@@ -1,6 +1,9 @@
 site_name: Questgiver Nøff
+site_url: https://questgiver.iktim.no
 site_description: En samling av oppdrag for læring, utforskning og utvikling.
 
+repo_name: questgiver.iktim.no
+repo_url: https://github.com/VaagenIM/questgiver
 docs_dir: ../docs
 site_dir: ../site
 
@@ -25,15 +28,46 @@ theme:
   features:
     - navigation.sections
     - content.code.copy
+    - content.action.edit
+    - content.code.annotate
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.top
+    - navigation.prune
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
 
 markdown_extensions:
   - attr_list
-  - nl2br
   - admonition
+  - mdx_breakless_lists
+  - meta
+  - nl2br
+  - smarty
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
   - pymdownx.details
-  - pymdownx.highlight
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      linenums: true
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
   - pymdownx.superfences
-  - pymdownx.tasklist
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
 
 plugins:
   - search
