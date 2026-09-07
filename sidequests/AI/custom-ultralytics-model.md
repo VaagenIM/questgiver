@@ -4,7 +4,8 @@
 
 Lære hvordan man trener en egen computer vision-modell med Ultralytics, og bruke den på et lite, konkret problem.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tWwCK95X6go?si=o2PzXnl5drq_yYh1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Silicon Valley - Jian Yangs hotdog app](http://img.youtube.com/vi/tWwCK95X6go/0.jpg)](http://www.youtube.com/watch?v=tWwCK95X6go "Silicon Valley - Jian Yangs hotdog app")
+
 
 ## Hvorfor dette er relevant?
 
