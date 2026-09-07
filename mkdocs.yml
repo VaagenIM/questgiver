@@ -4,7 +4,7 @@ site_description: En samling av oppdrag for læring, utforskning og utvikling.
 
 repo_name: questgiver.iktim.no
 repo_url: https://github.com/VaagenIM/questgiver
-edit_uri: edit/main/
+edit_uri: edit/main/docs/
 
 theme:
   name: material
