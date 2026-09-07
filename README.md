@@ -5,5 +5,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://questgiver.iktim.no">questgiver.iktim.no</a> - En samling av oppdrag for læring, utforskning og utvikling.</strong>
+  <b><a href="https://questgiver.iktim.no">questgiver.iktim.no</a></b>
+  <br>
+  En samling av oppdrag for læring, utforskning og utvikling.
 </p>
