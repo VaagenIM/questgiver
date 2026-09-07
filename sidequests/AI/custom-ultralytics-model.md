@@ -40,7 +40,7 @@ Dette oppdraget bør være et reelt programmeringsprosjekt, ikke bare en ferdig 
 
 - Ultralytics docs: https://docs.ultralytics.com/
 - Train custom model: https://docs.ultralytics.com/modes/train/
-- YOLO models: https://docs.ultralytics.com/models/yolo/
+- YOLO models: https://docs.ultralytics.com/models
 
 ## Ferdig når
 

@@ -23,9 +23,8 @@ Dette oppdraget er ikke bare om å "bruke en modell". Det bør også være en li
 ## Lenker
 
 - Ultralytics: https://docs.ultralytics.com/
-- YOLO modellen: https://docs.ultralytics.com/models/yolo/
+- YOLO modellen: https://docs.ultralytics.com/models
 - Python eksempel: https://docs.ultralytics.com/quickstart/
-- Video: https://www.youtube.com/watch?v=tWwCK95X6go
 
 ## Forslag til oppgave
 
