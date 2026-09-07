@@ -34,6 +34,14 @@ Et oppdrag er et målrettet prosjekt som hjelper deg å lære noe nytt innen inf
 > [!NOTE]
 > Et godt oppdrag er ikke nødvendigvis stort eller komplisert. Det handler om læring, utforskning og dokumentert progresjon.
 
+## Slik bruker du Questgiver
+
+1. Velg et eksempeloppdrag, eller lag et eget sidequest.
+2. Få sidequestet godkjent av læreren før du starter.
+3. Bruk GitHub-repositoriet læreren har gitt deg.
+4. Lag en enkel plan, arbeid i små steg og dokumenter valgene dine.
+5. Lever både resultatet og en kort refleksjon over hva du lærte.
+
 ## Hva kjennetegner et godt oppdrag?
 
 Et godt oppdrag har:
@@ -44,6 +52,14 @@ Et godt oppdrag har:
 - tydelig progresjon underveis
 
 Det viktigste er at du faktisk lærer noe og kan forklare hva du har jobbet med.
+
+## Sjekkliste før levering
+
+- [ ] Jeg kan forklare hva jeg ønsket å lære.
+- [ ] Jeg har vist progresjon med commits eller annen arbeidslogg.
+- [ ] Jeg har testet løsningen og dokumentert resultatene.
+- [ ] Jeg kan forklare minst én utfordring og hvordan jeg løste den.
+- [ ] GitHub-repositoriet og README-en gjør arbeidet mulig å forstå for andre.
 
 ## Eksempler på oppdrag
 

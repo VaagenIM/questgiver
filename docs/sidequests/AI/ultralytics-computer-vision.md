@@ -1,8 +1,12 @@
-# AI — Ultralytics for computer vision
+# AI: Ultralytics for computer vision
 
 ## Mål
 
 Lære hvordan Ultralytics brukes for computer vision, og bygge en liten prosjektoppgave som viser objektdeteksjon eller bildeanalyse.
+
+## Forkunnskaper
+
+Du bør kunne skrive enkel Python, installere et bibliotek og lese en kort README. Du trenger ikke kunne maskinlæring fra før.
 
 ## Hvorfor dette er relevant?
 
@@ -32,6 +36,22 @@ Dette oppdraget er ikke bare om å "bruke en modell". Det bør også være en li
 - bruk Ultralytics til objektdeteksjon eller bildeklassifisering
 - test ulike innstillinger eller modeller
 - dokumenter hva du lærte og hvilke resultater du fikk
+
+## Mulige arbeidssteg
+
+Dette er forslag til hvordan du kan komme i gang. Velg selv fremgangsmåte, og utforsk videre når du finner noe du vil undersøke nærmere.
+
+- Formuler et spørsmål, for eksempel: "Hvor godt finner modellen objekter i bilder den ikke har sett før?"
+- Kjør et enkelt eksempel og noter hva modellen gjør.
+- Prøv å endre én ting om gangen, og sammenlign resultatene.
+- Test på nye bilder og dokumenter fremgangsmåte, resultater og spørsmål du vil undersøke videre.
+
+## Dette skal leveres
+
+- kode og en README i GitHub-repositoriet læreren har gitt deg
+- minst ett eksempel på resultatet
+- en kort beskrivelse av testene du gjennomførte
+- en refleksjon over usikkerhet, feil og forbedringer
 
 ## Ferdig når
 
