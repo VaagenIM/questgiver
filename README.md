@@ -47,7 +47,7 @@ Det viktigste er at du faktisk lærer noe og kan forklare hva du har jobbet med.
 
 ## Eksempler på oppdrag
 
-Se temaer under [sidequests](sidequests/) for eksempeloppdrag og ideer du kan bruke som utgangspunkt.
+Se temaer under sidequests for eksempeloppdrag og ideer du kan bruke som utgangspunkt.
 
 ## Commit-meldinger
 
