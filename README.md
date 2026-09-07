@@ -1,7 +1,7 @@
 <h1 align="center">Questgiver Nøff</h1>
 
 <p align="center">
-  <img src=".github/media/piggy.png" alt="Questgiver Nøff" width="240" />
+  <img src="noff.png" alt="Questgiver Nøff" width="240" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ relevant, ha et tydelig mål og vise progresjon underveis.
 
 > [!NOTE]
 > Et godt oppdrag er ikke nødvendigvis stort eller komplisert. Det handler om læring, utforskning og dokumentert
-progresjon.
+> progresjon.
 
 ## Hva kjennetegner et godt oppdrag?
 

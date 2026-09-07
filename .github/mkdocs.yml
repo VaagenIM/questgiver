@@ -3,9 +3,25 @@ site_description: En samling av oppdrag for læring, utforskning og utvikling.
 
 docs_dir: ../docs
 site_dir: ../site
+
 theme:
   name: material
   language: nb
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Light mode
   features:
     - navigation.sections
     - navigation.expand
