@@ -4,7 +4,7 @@
 
 Lære hvordan man trener en egen computer vision-modell med Ultralytics, og bruke den på et lite, konkret problem.
 
-![type:video](http://www.youtube.com/embed/tWwCK95X6go)
+![type:video](https://www.youtube.com/embed/tWwCK95X6go)
 
 
 ## Hvorfor dette er relevant?
