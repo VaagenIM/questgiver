@@ -22,6 +22,7 @@ Dette er en sterk IT-oppgave fordi den kombinerer Python, maskinlæring, datainn
 ## Programmerings- og loggtilnærming
 
 Dette oppdraget bør være et reelt programmeringsprosjekt, ikke bare en ferdig modell. Lag egne skript, prøv ulike innstillinger, dokumenter hva du endrer i koden, og bruk commits og README for å vise utvikling over tid.
+
 ## Forslag til prosjekt
 
 - bygg et lite datasett med egne bilder eller tilgjengelige eksempler

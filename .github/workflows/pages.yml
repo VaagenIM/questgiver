@@ -28,22 +28,14 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -r .github/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
-      - name: Prepare documentation tree
-        run: |
-          mkdir -p docs/.github/media
-          cp README.md docs/index.md
-          cp -R sidequests docs/
-          cp -R media docs/
-
-
       - name: Build website
         run: |
-          mkdocs build --config-file .github/mkdocs.yml --strict
+          mkdocs build --strict
           echo "questgiver.iktim.no" > site/CNAME
 
       - name: Upload Pages artifact

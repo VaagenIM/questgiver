@@ -1,4 +1,4 @@
-## Første sidequest
+## Mitt sidequest
 
 Jeg har valgt følgende sidequest: (Link til sidequest)
 
@@ -26,8 +26,7 @@ Hva er interessant med dette? Hvorfor har du lyst til å lære det eller lage de
 
 ### Hvordan skal jeg vise hva jeg har gjort?
 
-> For eksempel: GitHub-repository, fungerende program, nettside, dokumentasjon,
-> demo eller lignende.
+> For eksempel: GitHub-repository, fungerende program, nettside, dokumentasjon, demo eller lignende.
 
 ### Eventuell link:
 

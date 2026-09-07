@@ -1,5 +1,5 @@
 .idea/
-docs/
 site/
 __pycache__/
 .DS_Store
+.venv/

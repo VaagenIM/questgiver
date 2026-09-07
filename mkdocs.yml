@@ -4,8 +4,6 @@ site_description: En samling av oppdrag for læring, utforskning og utvikling.
 
 repo_name: questgiver.iktim.no
 repo_url: https://github.com/VaagenIM/questgiver
-docs_dir: ../docs
-site_dir: ../site
 edit_uri: edit/main/
 
 theme:
@@ -27,14 +25,12 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Light mode
   features:
-    - navigation.sections
     - content.code.copy
     - content.action.edit
     - content.code.annotate
     - navigation.indexes
     - navigation.tracking
     - navigation.top
-    - navigation.prune
     - navigation.footer
     - search.suggest
     - search.highlight
