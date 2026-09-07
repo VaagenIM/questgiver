@@ -43,11 +43,6 @@ jobs:
       - name: Build website
         run: mkdocs build --config-file .github/mkdocs.yml --strict
 
-      - name: Preserve README image
-        run: |
-          mkdir -p site/.github/media
-          cp .github/media/piggy.png site/.github/media/
-
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
