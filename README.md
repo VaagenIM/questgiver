@@ -1,7 +1,7 @@
 <h1 align="center">Questgiver Nøff</h1>
 
 <p align="center">
-  <img src=".github/media/piggy.png" alt="Questgiver Nøff" width="420" />
+  <img src=".github/media/piggy.png" alt="Questgiver Nøff" width="240" />
 </p>
 
 <p align="center">
