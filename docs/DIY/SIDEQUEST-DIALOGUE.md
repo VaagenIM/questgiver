@@ -1,10 +1,12 @@
 # Sidequest-dialog
 
-Fyll ut punktene under og send dokumentet til læreren for godkjenning før du starter. Bruk GitHub-repositoriet læreren har gitt deg.
-
 ## Mitt sidequest
 
 Jeg har valgt følgende sidequest: (lenke til sidequest)
+
+## Dersom du ønsker å lage ditt eget sidequest
+
+Fyll ut punktene under og send dokumentet til læreren for godkjenning før du starter. Bruk alltid GitHub-repositoriet læreren har gitt deg.
 
 ## Hva ønsker jeg å lære eller lage?
 
