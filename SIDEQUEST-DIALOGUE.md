@@ -4,8 +4,7 @@ Jeg har valgt følgende sidequest: (Link til sidequest)
 
 ## Hvis du ønsker eget sidequest:
 
-Hvis du ønsker å lage ditt eget sidequest, fyll ut punktene under. Sidequesten må godkjennes av lærer før du starter.
-Det holder med 1-2 korte setninger.
+Hvis du ønsker å lage ditt eget sidequest, fyll ut punktene under. Sidequesten må godkjennes av lærer før du starter. Det holder med 1-2 korte setninger.
 
 ### Hva ønsker jeg å lære eller lage?
 
@@ -15,7 +14,7 @@ Det holder med 1-2 korte setninger.
 
 Hva er interessant med dette? Hvorfor har du lyst til å lære det eller lage det?
 
-> Svaret på denne spørsmålet bør forklare hvorfor sidequesten er relevant og hva som er den underliggende motivasjonen.
+> Svaret på dette spørsmålet bør forklare hvorfor sidequesten er relevant og hva som er den underliggende motivasjonen.
 
 ### Hva skal jeg bruke?
 

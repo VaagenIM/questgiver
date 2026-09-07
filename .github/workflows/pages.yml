@@ -38,7 +38,8 @@ jobs:
           mkdir -p docs/.github/media
           cp README.md docs/index.md
           cp -R sidequests docs/
-          cp noff.png docs/noff.png
+          cp -R media docs/
+
 
       - name: Build website
         run: mkdocs build --config-file .github/mkdocs.yml --strict

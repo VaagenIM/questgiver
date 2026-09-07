@@ -24,7 +24,6 @@ theme:
         name: Light mode
   features:
     - navigation.sections
-    - navigation.expand
     - content.code.copy
 
 markdown_extensions:

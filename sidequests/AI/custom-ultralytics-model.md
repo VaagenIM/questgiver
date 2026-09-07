@@ -8,8 +8,7 @@ Lære hvordan man trener en egen computer vision-modell med Ultralytics, og bruk
 
 ## Hvorfor dette er relevant?
 
-Dette er en sterk IT-oppgave fordi den kombinerer Python, maskinlæring, datainnsamling, modelltrening og evaluering. Det
-er et realistisk eksempel på hvordan AI brukes i praksis i industri, sikkerhet, kvalitetssikring og automatisering.
+Dette er en sterk IT-oppgave fordi den kombinerer Python, maskinlæring, datainnsamling, modelltrening og evaluering. Det er et realistisk eksempel på hvordan AI brukes i praksis i industri, sikkerhet, kvalitetssikring og automatisering.
 
 ## Hva du skal lære
 
@@ -21,9 +20,7 @@ er et realistisk eksempel på hvordan AI brukes i praksis i industri, sikkerhet,
 
 ## Programmerings- og loggtilnærming
 
-Dette oppdraget bør være et reelt programmeringsprosjekt, ikke bare en ferdig modell. Lag egne skript, prøv ulike
-innstillinger, dokumenter hva du endrer i koden, og bruk commits og README for å vise utvikling over tid.
-    
+Dette oppdraget bør være et reelt programmeringsprosjekt, ikke bare en ferdig modell. Lag egne skript, prøv ulike innstillinger, dokumenter hva du endrer i koden, og bruk commits og README for å vise utvikling over tid.
 ## Forslag til prosjekt
 
 - bygg et lite datasett med egne bilder eller tilgjengelige eksempler
@@ -46,5 +43,4 @@ innstillinger, dokumenter hva du endrer i koden, og bruk commits og README for �
 
 ## Ferdig når
 
-Du har trent en egen modell, testet den på nytt materiale, og kan forklare hva du lærte om datasett, trening og
-evaluering.
+Du har trent en egen modell, testet den på nytt materiale, og kan forklare hva du lærte om datasett, trening og evaluering.

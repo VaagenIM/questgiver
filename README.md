@@ -1,7 +1,7 @@
 <h1 align="center">Questgiver Nøff</h1>
 
 <p align="center">
-  <img src="noff.png" alt="Questgiver Nøff" width="240" />
+  <img src="media/noff.png" alt="Questgiver Nøff" width="240" />
 </p>
 
 <p align="center">
@@ -10,8 +10,7 @@
 
 ## Hva er et oppdrag?
 
-Et oppdrag er et målrettet prosjekt som hjelper deg å lære noe nytt innen informasjonsteknologi. Det skal være faglig
-relevant, ha et tydelig mål og vise progresjon underveis.
+Et oppdrag er et målrettet prosjekt som hjelper deg å lære noe nytt innen informasjonsteknologi. Det skal være faglig relevant, ha et tydelig mål og vise progresjon underveis.
 
 | Kriterium       | Beskrivelse                                             |
 |-----------------|---------------------------------------------------------|
@@ -33,8 +32,7 @@ relevant, ha et tydelig mål og vise progresjon underveis.
 - Oppdraget bør være noe du faktisk er nysgjerrig på eller vil lære mer om.
 
 > [!NOTE]
-> Et godt oppdrag er ikke nødvendigvis stort eller komplisert. Det handler om læring, utforskning og dokumentert
-> progresjon.
+> Et godt oppdrag er ikke nødvendigvis stort eller komplisert. Det handler om læring, utforskning og dokumentert progresjon.
 
 ## Hva kjennetegner et godt oppdrag?
 
@@ -53,11 +51,9 @@ Se temaer under [sidequests](sidequests/) for eksempeloppdrag og ideer du kan br
 
 ## Commit-meldinger
 
-Commit-meldinger fungerer som logg for arbeidet ditt. De skal beskrive hva du faktisk gjorde i økten, ikke bare være
-tilfeldige tekster.
+Commit-meldinger fungerer som logg for arbeidet ditt. De skal beskrive hva du faktisk gjorde i økten, ikke bare være tilfeldige tekster.
 
-Bruk gjerne Conventional Commits som retningslinje for gode konvensjoner. Les mer
-her: https://www.conventionalcommits.org/
+Bruk gjerne Conventional Commits som retningslinje for gode konvensjoner. Les mer her: https://www.conventionalcommits.org/
 
 ### Tips til gode commit-meldinger
 

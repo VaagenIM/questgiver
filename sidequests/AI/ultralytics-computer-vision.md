@@ -2,13 +2,11 @@
 
 ## Mål
 
-Lære hvordan Ultralytics brukes for computer vision, og bygge en liten prosjektoppgave som viser objektdeteksjon eller
-bildeanalyse.
+Lære hvordan Ultralytics brukes for computer vision, og bygge en liten prosjektoppgave som viser objektdeteksjon eller bildeanalyse.
 
 ## Hvorfor dette er relevant?
 
-Dette er faglig relevant for IT fordi det kombinerer kunstig intelligens, Python, datamodellering og praktisk
-problemløsning. Computer vision brukes i sikkerhet, automatisering, medisin, robotikk og analyse av bilder/video.
+Dette er faglig relevant for IT fordi det kombinerer kunstig intelligens, Python, datamodellering og praktisk problemløsning. Computer vision brukes i sikkerhet, automatisering, medisin, robotikk og analyse av bilder/video.
 
 ## Hva du skal lære
 
@@ -20,9 +18,7 @@ problemløsning. Computer vision brukes i sikkerhet, automatisering, medisin, ro
 
 ## Programmerings- og loggtilnærming
 
-Dette oppdraget er ikke bare om å "bruke en modell". Det bør også være en liten programmeringsoppgave: lag kode,
-eksperimenter med parametre, test resultater og skriv ned hva du har gjort i GitHub. En tydelig logg gjør det enklere å
-vise progresjon og forklare hvorfor du valgte ulike løsninger.
+Dette oppdraget er ikke bare om å "bruke en modell". Det bør også være en liten programmeringsoppgave: lag kode, eksperimenter med parametre, test resultater og skriv ned hva du har gjort i GitHub. En tydelig logg gjør det enklere å vise progresjon og forklare hvorfor du valgte ulike løsninger.
 
 ## Lenker
 
@@ -40,8 +36,7 @@ vise progresjon og forklare hvorfor du valgte ulike løsninger.
 
 ## Ferdig når
 
-Du har kjørt et lite prosjekt med Ultralytics, forstått grunnleggende konsepter, og kan forklare hva du gjorde, hvorfor
-det fungerer, og hvilke utfordringer du møtte.
+Du har kjørt et lite prosjekt med Ultralytics, forstått grunnleggende konsepter, og kan forklare hva du gjorde, hvorfor det fungerer, og hvilke utfordringer du møtte.
 
 ## Relevante verktøy
 
